@@ -28,7 +28,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="text" />
+            android:inputType="text"
+            android:backgroundTint="@color/biru"/>
 
         <TextView
             android:id="@+id/textView4"
@@ -43,7 +44,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="text" />
+            android:inputType="text"
+            android:backgroundTint="@color/biru"/>
 
         <TextView
             android:id="@+id/textView5"
@@ -58,7 +60,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="text"/>
+            android:inputType="text"
+            android:backgroundTint="@color/biru"/>
         <Button
             android:layout_marginLeft="280dp"
             android:id="@+id/button"
