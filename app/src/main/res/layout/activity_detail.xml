@@ -5,10 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Detail"
-    android:background="@drawable/Detail">
+    android:background="@drawable/detail">
 
-    <TextView
-        android:id="@+id/textView13"
+    <TextView        android:id="@+id/textView13"
         android:layout_width="19dp"
         android:layout_height="16dp"
         android:background="@drawable/back"
