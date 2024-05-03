@@ -19,6 +19,9 @@
             android:name=".FishinformationPageActivity"
             android:exported="false" />
         <activity
+            android:name=".profile"
+            android:exported="false" />
+        <activity
             android:name=".List"
             android:exported="false" />
         <activity
